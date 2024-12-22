@@ -1,4 +1,4 @@
-# budget_tracker_application_2
+# dit_love_project
 
 A new Flutter project.
 
