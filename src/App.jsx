@@ -1,21 +1,20 @@
-//rcfe key for reactcomponent
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Login from "/views/Login.jsx";
-import Register from "/views/Register.jsx";
-import Mytravel from "/views/Mytravel.jsx";
-import Addmytravel from "/views/AddMytravel.jsx";
-import UpdateMytravel from "/views/UpdateMytravel.jsx";
+import { BrowserRouter, Routes, Route }from "react-router-dom";
+import SauLogin from "./views/SauLogin.jsx";
+import SauSignup from "./views/SauSignup.jsx";
+import SauMyFriend from "./views/SauMyFriend.jsx";
+import SauAddMyFriend from "./views/SauAddMyFriend.jsx";
+import SauUpdateMyFriend from "./views/SauUpdateMyFriend.jsx";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Login />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="/Mytravel" element={<Mytravel />} />
-        <Route path="/addmytravel" element={<Addmytravel />} />
-        <Route path="/updatemytravel/:travelId" element={<UpdateMytravel />} />
+        <Route path="/" element={<SauLogin />} />
+        <Route path="/signup" element={<SauSignup />} />
+        <Route path="/myfriend" element={<SauMyFriend />} />
+        <Route path="/addmyfriend" element={<SauAddMyFriend />} />
+        <Route path="/updatemyfriend/:myfriendId" element={<SauUpdateMyFriend />} />
       </Routes>
     </BrowserRouter>
   );
