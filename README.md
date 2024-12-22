@@ -1,4 +1,4 @@
-# dit_love_project
+# dti_life_project
 
 A new Flutter project.
 
