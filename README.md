@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fresh Graduate
 --------------
 
-i'm Looking for a job Software Developrt , Software Tester
+I'm Looking for a job Software Developer , Software Tester
 
 * 🌍  I'm based in Bangkok,Thailand
 
