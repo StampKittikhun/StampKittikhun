@@ -26,7 +26,8 @@ I'm passionate about **software development** and **quality assurance** — I en
 <p align="left">
 <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
-<a href="https://www.soapui.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/SoapUI_Logo.png" width="36" height="36" alt="SOAP UI" /></a>
+<a href="https://www.soapui.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/smartbear_soapui/smartbear_soapui-icon.svg" width="36" height="36" alt="SOAP UI" /></a>
+
 </p>
 
 **Testing Skills**
@@ -34,7 +35,8 @@ I'm passionate about **software development** and **quality assurance** — I en
 - Test Case & Bug Report Design  
 - Playwright Automation (Web UI Testing)  
 - API Testing with Postman / SOAP UI  
-- SQL Data Validation  
+- SQL Data Validation
+- Environment: SIT / UAT Testing  
 
 ---
 
