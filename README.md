@@ -78,13 +78,6 @@ I'm passionate about **software development** and **quality assurance** — I en
 </a>
 </p>
 
----
-
-## 🔥 GitHub Streak & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=StampKittikhun&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
